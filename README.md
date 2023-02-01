@@ -23,7 +23,7 @@
 ## Installation
 
 ```
-npm install -g sus-cli
+npm install -g sus-cli@latest
 ```
 
 ## Usage
@@ -35,6 +35,10 @@ sus
 ```
 
 It will print the ASCII art shown above.
+
+## Updating
+
+To update the package, simply run the command that is also used for installation.
 
 ## Disclaimer
 
