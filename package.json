@@ -1,6 +1,6 @@
 {
   "name": "sus-cli",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "license": "MIT",
   "author": "Martin Buchalik",
   "description": "Make your CLI sus (print the Among Us character as ASCII art)",
